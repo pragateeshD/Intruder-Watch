@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "media-devices": "^0.4.0",
+    "react-player": "^2.12.0"
+  }
+}
