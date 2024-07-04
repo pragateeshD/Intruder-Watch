@@ -14,7 +14,7 @@ Installation
 Provide detailed instructions on how to install the necessary dependencies. If your project uses npm or yarn, you can include the installation command.
 
 
-npm install
+npm install 
 
 yarn install
 
