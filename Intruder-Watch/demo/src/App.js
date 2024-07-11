@@ -2,7 +2,7 @@ import Login from "./Login";
 import { Routes,Route } from "react-router-dom";
 import SignUp from "./SignUp";
 import ForgetPass from "./ForgetPass";
-import HomePage from "./Homepage";
+import HoomePage from "./Homepage";
 import Rtsp from "./Rtsp";
 import Usb from "./Usb";
 function App() {
