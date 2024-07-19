@@ -6,7 +6,7 @@
 //To execute open terminal and cd demo->npm i->npm start and it wiil start the server type localhost:3000 in web browser 
 // Import necessary React components and libraries
 
-<h1>how to create react project </h1>
+<h1>how to create react project </h1> 
 Getting Started
 Include any prerequisites or system requirements needed to run your application. Also, mention any dependencies that should be installed before running the app.
 
